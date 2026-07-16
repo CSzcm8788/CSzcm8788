@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zhiwen+%F0%9F%91%8B;%E4%B8%80%E4%B8%AA%E7%88%B1%E6%8A%98%E8%85%BE+AI+%E7%9A%84%E4%BB%A3%E7%A0%81%E5%B0%8F%E7%99%BD)](https://nodeaitry.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zhiwen+%F0%9F%91%8B;%E4%B8%80%E4%B8%AA%E7%94%A8+AI+%E6%8A%8A%E4%BA%A7%E5%93%81%E5%81%9A%E4%B8%8A%E7%BA%BF%E7%9A%84%E4%BB%A3%E7%A0%81%E5%B0%8F%E7%99%BD)](https://nodeaitry.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CSzcm8788&label=Profile%20Views&color=58A6FF&style=flat-square)
 
@@ -8,15 +8,18 @@
 
 ---
 
-代码小白一枚，平时折腾各种 AI 工具，顺手记录在自己的博客 [**NodeAITRY**](https://nodeaitry.com) 上。
+代码小白一枚，平时用自然语言让 AI 帮我干活。以前是折腾各种工具，现在自己提需求、做决策、验收，代码交给 AI 写，也真做出了几个能用的东西。
 
-主要写 AI Agent、自动化工作流这类东西，目标读者是和我一样零基础的人。我自己也在边学边写，所以内容大多是踩坑记录。
+过程和踩的坑都记在博客 [**NodeAITRY**](https://nodeaitry.com) 上，主要写 AI Agent、自动化工作流，给和我一样零基础的人看。
 
-平时用 Hugo + Cloudflare 搭博客，喜欢用自然语言让 AI 直接帮我干活，而不是只是聊天。审美上偏暗色 + 终端风，Menlo 字体爱好者。
+审美偏暗色 + 终端风，Menlo 字体爱好者。业余看看加密货币，冷钱包加交易所钱包混着用。
 
-业余看看加密货币，冷钱包加交易所钱包混着用。
+---
 
-博客主要是中文，欢迎来逛逛 👇
+### 🚀 在做的东西
+
+- **[Tokenitor](https://github.com/CSzcm8788/Tokenitor)** — macOS 菜单栏小工具，看 Claude / Codex / Gemini / Copilot 还剩多少额度、今天烧了多少 token。纯本地运行，可以用 [Homebrew 装](https://github.com/CSzcm8788/homebrew-tap)。
+- **[NodeAITRY](https://nodeaitry.com)** — 中文博客，Hugo + Cloudflare 搭的，欢迎来逛。
 
 ---
 
@@ -30,11 +33,18 @@
 
 ### 🧰 常用工具
 
-![AI Agent](https://img.shields.io/badge/-AI%20Agent-000000?style=flat-square&logo=openai&logoColor=white)
-![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat-square)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
+
+![Termius](https://img.shields.io/badge/-Termius-141516?style=flat-square&logo=termius&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
