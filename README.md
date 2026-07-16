@@ -31,6 +31,18 @@
 
 ---
 
+### 📊 这个月烧了多少 token
+
+<div align="center">
+
+[![AI Usage](https://gist.githubusercontent.com/CSzcm8788/58ba9414051f5d03505334231c5e3bd7/raw/usage.svg)](https://github.com/CSzcm8788/Tokenitor)
+
+</div>
+
+数据来自本机 CLI 日志，每小时自动更新。想在自己菜单栏看到同款数字？试试 [Tokenitor](https://github.com/CSzcm8788/Tokenitor)。
+
+---
+
 ### 🧰 常用工具
 
 ![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -50,6 +62,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CSzcm8788&show_icons=true&theme=dark&hide_border=true)
+[![Contributions](https://ghchart.rshah.org/58A6FF/CSzcm8788)](https://github.com/CSzcm8788)
 
 </div>
