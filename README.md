@@ -16,14 +16,14 @@ I lean dark + terminal, and I'm a Menlo person. On the side I follow crypto, mix
 
 ---
 
-### 🚀 What I'm building
+**🚀 What I'm building**
 
 - **[Tokenitor](https://github.com/CSzcm8788/Tokenitor)** — A macOS menu-bar tool for remaining Claude / Codex / Gemini / Copilot quota and today's token spend. Fully local. Install with [Homebrew](https://github.com/CSzcm8788/homebrew-tap).
 - **[NodeAITRY](https://nodeaitry.com)** — A Chinese blog built with Hugo + Cloudflare. Come take a look.
 
 ---
 
-### 🔗 Find me
+**🔗 Find me**
 
 - 🌐 Blog: [nodeaitry.com](https://nodeaitry.com)
 - 🐦 X: [@yukabiubiu](https://x.com/yukabiubiu)
@@ -31,7 +31,7 @@ I lean dark + terminal, and I'm a Menlo person. On the side I follow crypto, mix
 
 ---
 
-### 📊 Token usage
+**📊 Token usage**
 
 [![Tokens Stats](https://tokens.ci/api/embed/CSzcm8788/svg?theme=light&template=terminal&tokens=compact&cost=full)](https://tokens.ci/u/CSzcm8788)
 
@@ -39,7 +39,7 @@ I lean dark + terminal, and I'm a Menlo person. On the side I follow crypto, mix
 
 ---
 
-### 🧰 Everyday tools
+**🧰 Everyday tools**
 
 ![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square)
