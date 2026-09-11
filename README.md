@@ -31,15 +31,17 @@ I lean dark + terminal, and I'm a Menlo person. On the side I follow crypto, mix
 
 ---
 
-### 📊 Tokens burned this month
+### 📊 Token usage
 
 <div align="center">
 
-[![AI Usage](https://gist.githubusercontent.com/CSzcm8788/58ba9414051f5d03505334231c5e3bd7/raw/usage.svg)](https://github.com/CSzcm8788/Tokenitor)
+[![Tokens](https://tokens.ci/api/embed/CSzcm8788/svg?theme=light&compact=1)](https://tokens.ci/u/CSzcm8788)
+
+[![Today's usage](https://tokens.ci/api/embed/CSzcm8788/svg?theme=light&template=detailed)](https://tokens.ci/u/CSzcm8788)
 
 </div>
 
-Readings come from local CLI logs and refresh every hour. Want the same numbers in your menu bar? Try [Tokenitor](https://github.com/CSzcm8788/Tokenitor).
+Live stats from [tokens.ci](https://tokens.ci/u/CSzcm8788), reported by the Tokens CLI.
 
 ---
 
