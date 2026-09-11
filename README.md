@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zhiwen+%F0%9F%91%8B;%E4%B8%80%E4%B8%AA%E7%94%A8+AI+%E6%8A%8A%E4%BA%A7%E5%93%81%E5%81%9A%E4%B8%8A%E7%BA%BF%E7%9A%84%E4%BB%A3%E7%A0%81%E5%B0%8F%E7%99%BD)](https://nodeaitry.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zhiwen+%F0%9F%91%8B;A+non-coder+who+ships+products+with+AI)](https://nodeaitry.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CSzcm8788&label=Profile%20Views&color=58A6FF&style=flat-square)
 
@@ -8,30 +8,30 @@
 
 ---
 
-代码小白一枚，平时用自然语言让 AI 帮我干活。以前是折腾各种工具，现在自己提需求、做决策、验收，代码交给 AI 写，也真做出了几个能用的东西。
+I'm a coding beginner. I get work done by talking to AI in natural language. I used to tinker with tools; now I write the spec, make the calls, and review the output — AI writes the code. A few of those things actually shipped.
 
-过程和踩的坑都记在博客 [**NodeAITRY**](https://nodeaitry.com) 上，主要写 AI Agent、自动化工作流，给和我一样零基础的人看。
+I write the process and the mistakes on my blog [**NodeAITRY**](https://nodeaitry.com) — mostly AI agents and automation workflows, for people starting from zero like me.
 
-审美偏暗色 + 终端风，Menlo 字体爱好者。业余看看加密货币，冷钱包加交易所钱包混着用。
-
----
-
-### 🚀 在做的东西
-
-- **[Tokenitor](https://github.com/CSzcm8788/Tokenitor)** — macOS 菜单栏小工具，看 Claude / Codex / Gemini / Copilot 还剩多少额度、今天烧了多少 token。纯本地运行，可以用 [Homebrew 装](https://github.com/CSzcm8788/homebrew-tap)。
-- **[NodeAITRY](https://nodeaitry.com)** — 中文博客，Hugo + Cloudflare 搭的，欢迎来逛。
+I lean dark + terminal, and I'm a Menlo person. On the side I follow crypto, mixing a cold wallet with exchange wallets.
 
 ---
 
-### 🔗 找到我
+### 🚀 What I'm building
 
-- 🌐 博客：[nodeaitry.com](https://nodeaitry.com)
-- 🐦 X：[@yukabiubiu](https://x.com/yukabiubiu)
-- ✈️ Telegram：[@yukabiubiu](https://t.me/yukabiubiu)
+- **[Tokenitor](https://github.com/CSzcm8788/Tokenitor)** — A macOS menu-bar tool for remaining Claude / Codex / Gemini / Copilot quota and today's token spend. Fully local. Install with [Homebrew](https://github.com/CSzcm8788/homebrew-tap).
+- **[NodeAITRY](https://nodeaitry.com)** — A Chinese blog built with Hugo + Cloudflare. Come take a look.
 
 ---
 
-### 📊 这个月烧了多少 token
+### 🔗 Find me
+
+- 🌐 Blog: [nodeaitry.com](https://nodeaitry.com)
+- 🐦 X: [@yukabiubiu](https://x.com/yukabiubiu)
+- ✈️ Telegram: [@yukabiubiu](https://t.me/yukabiubiu)
+
+---
+
+### 📊 Tokens burned this month
 
 <div align="center">
 
@@ -39,11 +39,11 @@
 
 </div>
 
-数据来自本机 CLI 日志，每小时自动更新。想在自己菜单栏看到同款数字？试试 [Tokenitor](https://github.com/CSzcm8788/Tokenitor)。
+Readings come from local CLI logs and refresh every hour. Want the same numbers in your menu bar? Try [Tokenitor](https://github.com/CSzcm8788/Tokenitor).
 
 ---
 
-### 🧰 常用工具
+### 🧰 Everyday tools
 
 ![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square)
