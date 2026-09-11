@@ -33,15 +33,9 @@ I lean dark + terminal, and I'm a Menlo person. On the side I follow crypto, mix
 
 ### 📊 Token usage
 
-<div align="center">
+[![Tokens Stats](https://tokens.ci/api/embed/CSzcm8788/svg?theme=light&template=terminal&tokens=compact&cost=full)](https://tokens.ci/u/CSzcm8788)
 
-[![Tokens](https://tokens.ci/api/embed/CSzcm8788/svg?theme=light&compact=1)](https://tokens.ci/u/CSzcm8788)
-
-[![Today's usage](https://tokens.ci/api/embed/CSzcm8788/svg?theme=light&template=detailed)](https://tokens.ci/u/CSzcm8788)
-
-</div>
-
-Live stats from [tokens.ci](https://tokens.ci/u/CSzcm8788), reported by the Tokens CLI.
+[![Tokens Stats](https://tokens.ci/api/embed/CSzcm8788/svg?theme=light&template=detailed&color=blue&tokens=compact&cost=compact)](https://tokens.ci/u/CSzcm8788)
 
 ---
 
